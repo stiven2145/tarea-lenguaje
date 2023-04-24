@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <header>
+    <img src="logo.png" alt="la imagen no soporta tu dispositivo">
+    <nav>
+        <ul>
+            <li><a href="5"></a>VISTAS 3D</li>
+            <li><a href="5"></a>ENTORNO 360°</li>
+            <li><a href="5"></a>STREAMING Y CHROMA KEY</li>
+            <li><a href="5"></a>RUEDAS DE NEGOCIOS</li>
+            <li><a href="5"></a>EVENTOS REALIZADOS</li>
+        </ul>
+    </nav> 
+    </header>
+
+<section>
+       <h2>Mira nuestros videos</h2>
+       <div>
+        <img src="video-1.png" alt="el video no soporta tu dispositivo">
+        <h3>vistas 3d</h3>
+       </div>
+       <div>
+        <img src="video-2.png" alt="el video no soporta tu dispositivo">
+        <h3>vistas 4d</h3>
+       </div>
+       <div>
+        <img src="video-3.png" alt="el video no soporta tu dispositivo">
+        <h3>vistas 5d</h3>
+       </div>
+</section>
+
+<section>
+      <h2>EVENTOS CON VISTA 3D</h2>
+      <P>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates, distinctio iure perspiciatis quos cupiditate blanditiis tenetur fuga sint. Animi dolore iste suscipit mollitia accusantium sequi quidem esse itaque officiis non.</P>
+      <P>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui sit unde maxime excepturi nemo. Labore suscipit aliquam ea, alias totam repellendus illum iste voluptatem facere necessitatibus cumque minima maiores temporibus?</P>
+      <div>
+        <img src="evento-1.png" alt="la imagen no soporta tu dispositivo">
+        <img src="evento-2.png" alt="la imagen no soporta tu dispositivo">
+        <img src="evento-3.png" alt="la imagen no soporta tu dispositivo">
+        </div>
+        <div>
+       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod nesciunt, aspernatur laborum ducimus, praesentium, autem laboriosam odio numquam illo eligendi porro perferendis dicta. Placeat optio eaque officiis, laudantium nemo nisi!</p>
+       <ul>
+        <li>Ferias</li>
+        <li>Conferencias</li>
+        <li>Encuentros Corporativos</li>
+        <li>Seminarios web</li>
+       </ul>
+       <h4>Puede contratar</h4>
+       <ol>
+        <li>Alquiler del Centro de Conveciones Virtual KMJK</li>
+        <li>adquiere una licencia de la plataforma 6Connex</li>
+       </ol>
+       <h4>licencia de la Plataforma 6Connex</h4>
+       <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime distinctio atque commodi recusandae corrupti. Modi, laudantium dolor quaerat a deserunt ab esse velit odit nobis tenetur voluptas sunt? Minus, recusandae!</p>
+       <h4>Por que 6Connex</h4>
+       <ul>
+        <li>.11 años de trayectoria en la realización de eventos virtuales</li>
+        <li>.+ de 600.000 mil eventos virtuales realizados</li>
+        <li.>Con tecnología HTML5</li>
+        <li>.Servidores globales redundantes</li>
+        <li>.Data encriptada</li>
+        <li>.Templates personalizados con los colores de tu marca</li>
+       </ul>
+       <img src="logo-6connex.png" alt="">
+      </div>
+</section>     
+    </body>
+    </html>
+       
